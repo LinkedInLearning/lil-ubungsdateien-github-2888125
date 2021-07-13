@@ -1,4 +1,4 @@
-# COURSENAME
+# GitHub Übungsdateien
 Dies ist das Repository für den Kurs `GitHub Übungsdateien`.  Der gesamte Kurs ist bei [LinkedIn Learning][lil-course-url] erhältlich.
 
 ![course-name-alt-text][lil-thumbnail-url] 
