@@ -1,7 +1,10 @@
-# GitHub Übungsdateien
-Dies ist das Repository für den Kurs `GitHub Übungsdateien`.  Der gesamte Kurs ist bei [LinkedIn Learning][lil-course-url] erhältlich.
+# LinkedIn Learning: Übungsdateien auf Github nutzen
 
-![course-name-alt-text][lil-thumbnail-url] 
+Dies ist das Repository für den **LinkedIn Learning** Kurs [LinkedIn Learning: Übungsdateien auf Github nutzen]. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+
+[![COURSENAME](COURSEIMAGE)](LICOURSEURL)![Building a GraphQL Project with React.js][lil-thumbnail-url] 
+
+[COURSEDESCRIPTION]
 
 ## Beispiel-Repository aus dem Kurs
 Das im Kurs verwendete Beispiel-Repository finden Sie unter https://github.com/LinkedInLearning/gatsby-lernen-de-4378
@@ -14,10 +17,13 @@ Das im Kurs verwendete Beispiel-Repository finden Sie unter https://github.com/L
 - **restore**: Änderungen rückgängig machen
 - **commit**: Änderungen dauerhaft speichern
 
+### Autor
 
+**[Thomas Rose]**
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+_[Berufsbezeichnung hier eintragen]_
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Sehen Sie sich andere Kurse des Autors auf <<<<Link aktualisieren>>>> [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors?u=104) an.
 
+[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
