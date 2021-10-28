@@ -4,7 +4,7 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs [LinkedIn Learning: 
 
 [![COURSENAME](COURSEIMAGE)](LICOURSEURL)![Building a GraphQL Project with React.js][lil-thumbnail-url] 
 
-[COURSEDESCRIPTION]
+Zu vielen Technologiekursen hier bei LinkedIn Learning stehen Source- und Übungsdateien bereit, und immer öfter finden Sie diese auf GitHub. Wie Sie die Übungsdateien als Git-Repository nutzen können, um das Optimum aus ihnen herauszuholen, erläutert Ihnen Thomas Rose in diesem Video-Training. Sie sehen, wie Sie auf GitHub-Übungsdateien zugreifen – sowohl von der Befehlszeile als auch von verschiedenen gängigen IDEs aus, darunter Visual Studio und Visual Studio Code, IntelliJ IDEA und GitHub Desktop. Lernen Sie, wie Sie das Repository finden, es auf Ihren Computer klonen und mit unterschiedlichen Branches arbeiten können,  oder auch Änderungen an Branches mit Git-Befehlen speichern, festschreiben und zurücknehmen können. 
 
 ## Beispiel-Repository aus dem Kurs
 Das im Kurs verwendete Beispiel-Repository finden Sie unter https://github.com/LinkedInLearning/gatsby-lernen-de-4378
@@ -19,11 +19,11 @@ Das im Kurs verwendete Beispiel-Repository finden Sie unter https://github.com/L
 
 ### Autor
 
-**[Thomas Rose]**
+**Thomas Rose**
 
-_[Berufsbezeichnung hier eintragen]_
+_Web-Entwickler, Medienpädagoge_
 
-Sehen Sie sich andere Kurse des Autors auf <<<<Link aktualisieren>>>> [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors?u=104) an.
+Sehen Sie sich andere Kurse des Autors auf <<<<Link aktualisieren>>>> [LinkedIn Learning](https://www.linkedin.com/learning/instructors/thomas-rose?u=104) an.
 
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
