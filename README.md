@@ -1,6 +1,6 @@
 # LinkedIn Learning: Übungsdateien auf Github nutzen
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs [LinkedIn Learning: Übungsdateien auf Github nutzen]. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs _LinkedIn Learning: Übungsdateien auf Github nutzen_. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 [![COURSENAME](COURSEIMAGE)](LICOURSEURL)![Building a GraphQL Project with React.js][lil-thumbnail-url] 
 
