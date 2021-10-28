@@ -23,7 +23,7 @@ Das im Kurs verwendete Beispiel-Repository finden Sie unter https://github.com/L
 
 _Web-Entwickler, Medienpädagoge_
 
-Sehen Sie sich andere Kurse des Autors auf <<<<Link aktualisieren>>>> [LinkedIn Learning](https://www.linkedin.com/learning/instructors/thomas-rose?u=104) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/thomas-rose?u=104) an.
 
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
 
