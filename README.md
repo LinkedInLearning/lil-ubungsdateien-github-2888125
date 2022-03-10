@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs _LinkedIn Learning: Übungsdateien auf Github nutzen_. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-
+![lil-tn-url]
 
 Zu vielen Technologiekursen hier bei LinkedIn Learning stehen Source- und Übungsdateien bereit, und immer öfter finden Sie diese auf GitHub. Wie Sie die Übungsdateien als Git-Repository nutzen können, um das Optimum aus ihnen herauszuholen, erläutert Ihnen Thomas Rose in diesem Video-Training. Sie sehen, wie Sie auf GitHub-Übungsdateien zugreifen – sowohl von der Befehlszeile als auch von verschiedenen gängigen IDEs aus, darunter Visual Studio und Visual Studio Code, IntelliJ IDEA und GitHub Desktop. Lernen Sie, wie Sie das Repository finden, es auf Ihren Computer klonen und mit unterschiedlichen Branches arbeiten können,  oder auch Änderungen an Branches mit Git-Befehlen speichern, festschreiben und zurücknehmen können. 
 
@@ -25,5 +25,6 @@ _Web-Entwickler, Medienpädagoge_
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/thomas-rose?u=104) an.
 
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/ubungsdateien-von-linkedin-learning-auf-github-nutzen
+[lil-tn-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHNn9sQJ7UpAA/learning-public-crop_675_1200/0/1635929490992?e=1646960400&v=beta&t=PsWUMa-y-Q7I9M47L6-8F_pRd9v04r6c1izQOxyGVV4
 
