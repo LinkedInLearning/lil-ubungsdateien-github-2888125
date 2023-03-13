@@ -26,5 +26,5 @@ _Web-Entwickler, Medienpädagoge_
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/thomas-rose?u=104) an.
 
 [lil-course-url]: https://www.linkedin.com/learning/ubungsdateien-von-linkedin-learning-auf-github-nutzen
-[lil-tn-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHNn9sQJ7UpAA/learning-public-crop_675_1200/0/1635929490992?e=1646960400&v=beta&t=PsWUMa-y-Q7I9M47L6-8F_pRd9v04r6c1izQOxyGVV4
+[lil-tn-url]: https://cdn.lynda.com/course/2888125/2888125-1635929487181-16x9.jpg
 
